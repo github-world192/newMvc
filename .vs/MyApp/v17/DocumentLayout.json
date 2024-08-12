@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|c:\\users\\123\\desktop\\myapp - \u8907\u88FD\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\models\\mapapiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\mapapiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\mfweb\\mapapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\mfweb\\mapapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\myapp\\myapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{332B4151-8413-4DB5-94E1-7C1853958C2F}|MyApp\\MyApp.csproj|solutionrelative:myapp\\myapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:20:23.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T11:22:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:29:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:47:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T11:18:30.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\User.cs",
+              "RelativeToolTip": "MyApp\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:11:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "MyApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:13:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MyApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:12:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapAPIViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\MapAPIViewModel.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\MapAPIViewModel.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Models\\MapAPIViewModel.cs",
+              "RelativeToolTip": "MyApp\\Models\\MapAPIViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:11:11.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T11:18:45.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAjwHMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:16:12.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapAPI.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\MFWeb\\MapAPI.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\MFWeb\\MapAPI.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\MFWeb\\MapAPI.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\MFWeb\\MapAPI.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:08:58.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T03:47:05.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T04:06:27.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:54:45.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "MyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "MyApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAANIDAAAAAAAAAAAlwOkDAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T12:45:38.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "MyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "MyApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T12:45:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyApp",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\MyApp.csproj",
+              "RelativeDocumentMoniker": "MyApp\\MyApp.csproj",
+              "ToolTip": "C:\\Users\\123\\Desktop\\MyApp - \u8907\u88FD\\MyApp\\MyApp.csproj",
+              "RelativeToolTip": "MyApp\\MyApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T12:38:37.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
